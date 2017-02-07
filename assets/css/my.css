@@ -1,0 +1,303 @@
+a:hover,
+a:focus,
+.bordered .info h3 a:hover,
+.bordered .info h4 a:hover,
+.icon i.icn,
+.meta a:hover,
+.meta li.categories:hover:before,
+.more:hover,
+.navbar.basic .nav > li > a:hover,
+.navbar.basic .nav > li > a:focus,
+.navbar.basic .nav .open > a,
+.navbar.basic .nav .open > a:hover,
+.navbar.basic .nav .open > a:focus,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a:hover,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) li a.active,
+.navbar-header .info a:hover,
+.nav > li > a:hover,
+.owl-carousel:hover .owl-next:hover,
+.owl-carousel:hover .owl-prev:hover,
+.panel-title > a:hover,
+#scrollUp:hover,
+.sidemeta .format-wrapper a,
+.tabs-side .tab.active a,
+.tabs-top .tab.active a,
+.text-center .panel-title > a:hover span:after,
+ul.arrowed li:before,
+ul.circled li:before,
+.yamm .yamm-content a:hover {
+	color: #ffffff;
+}
+
+.tint-bg .btn,
+.tint-color {
+	color: #415368 !important;
+}
+
+.btn,
+.classic-blog .post .date,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a:focus,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > .active > a:hover,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:focus,
+.navbar .dropdown-menu:not(.yamm-dropdown-menu) > li > a:hover,
+.navbar .dropdown-submenu:focus > a,
+.navbar .dropdown-submenu:hover > a,
+.owl-pagination .owl-page.active span,
+.owl-pagination .owl-page:hover span,
+#owl-main .caption h1 span.tint-bg,
+#owl-main .caption p span.tint-bg,
+.pagination > li > a,
+.pagination > li > span,
+.post.format-quote,
+.sidemeta .format-wrapper a:hover,
+.sidenav li a:hover,
+.tabs-circle-top .tab.active a,
+.tabs-side .tab a:hover,
+.tabs-top .tab a:hover,
+.tint-bg,
+.tint-bg.img-bg-soft:before,
+.tint-bg.img-bg-softer:before,
+.tooltip-inner {
+	background-color: #4d6580;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > li > a:hover,
+.pagination > li > a:focus {
+	background-color: #6484a8;
+}
+
+.icon-overlay a .icn-more,
+.items li .text-overlay,
+.owl-carousel .item .text-overlay,
+.thumbs .thumb .text-overlay {
+	background-color: rgba(252, 238, 39, 0.75);
+}
+
+.classic-blog .post .date,
+.icon.circle,
+.sidemeta .format-wrapper a,
+.tabs-circle-top .tab.active a,
+.tabs-circle-top .tab a:hover,
+.tabs-side .tab a:hover,
+.tabs-top .tab a:hover {
+	border-color: #415368;
+}
+
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+	border-top-color: #415368;
+}
+.tooltip.right .tooltip-arrow {
+	border-right-color: #415368;
+}
+.tooltip.left .tooltip-arrow {
+	border-left-color: #415368;
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+	border-bottom-color: #415368;
+}
+
+#owl-main .caption h1 span.tint-bg,
+#owl-main .caption p span.tint-bg  {
+	box-shadow: -.500em 0 0 #415368, .500em 0 0 #415368;
+}
+
+::selection {
+	background: #B6DBF2; /* Safari */
+}
+
+::-moz-selection {
+	background: #B6DBF2; /* Firefox */
+}
+
+
+
+/* ========== Start Personal Customizations ============ */
+
+/* --- Navigation --- */
+
+.navbar-collapse {
+    background-color: #242a31;
+    border-bottom: 0px solid #E6E9ED; */
+}
+
+/* --- Main --- */
+main {
+    background-color: #283645;
+    color: #A3B1BF;
+}
+
+.light-blue-bg {
+    background-color: #415368;
+    color: #A3B1BF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+.navbar-nav > li > a{
+    color: #fff;
+}
+
+/* --- Fontello Icon Color --- */
+.navbar.basic .nav > li > a:hover, .navbar.basic .nav > li > a:focus, .navbar.basic .nav .open > a, .navbar.basic .nav .open > a:hover, .navbar.basic .nav .open > a:focus, .navbar .dropdown-menu:not(.yamm-dropdown-menu) li a:hover, .navbar .dropdown-menu:not(.yamm-dropdown-menu) li a.active, .navbar-header .info a:hover, .nav > li > a:hover {
+    color: #2D353E;
+}
+
+/* --- Testimonial Slider --- */
+.light-bg.img-bg-softer:before {
+    background-color: #242a31;
+}
+
+.navbar-brand img {
+	max-height: 100px;
+}
+
+/* --- Front Page Contact Message Box --- */
+.front-textarea{
+    min-height: 75px;
+}
+
+/* --- Removed Margins Fom Contact Button on Front Page --- */
+.btn-front{
+    margin: 0px 0;
+}
+
+/* --- Slimmed Some Footer Padding --- */
+footer .inner {
+    padding-top: 45px;
+    padding-bottom: 10px;
+}
+
+
+/* --- Linkedin Color Animation On Hover --- */
+.member .text-overlay .info .social li a:hover .icon-s-linkedin {
+    color: #4875B4;
+    color: #4875B4;
+}
+
+.btn-share-lg:hover .icon-s-linkedin:after,
+.btn-share-md:hover .icon-s-linkedin:after,
+.btn-share-sm:hover .icon-s-linkedin:after,
+.btn-share-xs:hover .icon-s-linkedin:after {
+    background: #4875B4;
+    background: #4875B4;
+}
+
+.social a .icon-s-linkedin:after {
+    background: #4875B4;
+    background: #4875B4;
+}
+/* -- End Linkedin Color Animations --- */
+
+/* -- Facebook Animation On Hover -- */
+.social a .icon-s-facebook:after {
+    background: #3B5998;
+    background: #3B5998;
+}
+/* -- End Facebook Color Animations -- */
+
+.nav > li > a:hover {
+    background-color: #F5F7FA;
+    /* border-color: #E6E9ED; */
+    /*color: #1ABB9C;*/
+}
+
+/* -- Active Slider Dial Color -- */
+.owl-pagination .owl-page.active span,
+.owl-pagination .owl-page:hover span {
+    background-color: #7BA1CC;
+}
+
+/* -- Navbar max-width 1024px -- */
+@media (max-width: 1024px){
+.navbar-header {
+    background: #242a31;
+    padding: 25px 0;
+    border-bottom: 0px solid #E6E9ED;
+}
+    
+.navbar-nav > li > a{
+    padding-right: 10px;
+}
+}
+/* -- End Navbar max-width 1024 -- */
+
+/* -- Portfolio Filter -- */
+.filter, .format-filter {
+    color: #242a31;
+}
+
+
+.filter li a:hover, .format-filter li a:hover, .filter li a:focus, .format-filter li a:focus {
+    color: #6380a2;
+}
+
+.light-bg.img-bg-softer:before {
+    background-color: #242a31;
+}
+
+.Experience-Entry{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    /*border-bottom: thin solid #ffffff;*/
+}
+
+/* -- Youtube Embed -- */
+.vid {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 0px; height: 0; overflow: hidden;
+}
+ 
+.vid iframe,
+.vid object,
+.vid embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.who-i-am{
+    background-color: #242a31;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+#how-we-work{
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+/* ** More Works Toggle ** */
+.blank .panel-title > a.collapsed {
+    background: #415368;
+}
+
+.blank .panel-title > a.collapsed, .blank .panel-title > a {
+    border: 0px solid #E6E9ED;
+}
+
+.panel-title > a span {
+    color: #ffffff;
+}
+
+.blank .panel-title > a, .blank .panel-title > a:hover {
+    background: #415368;
+}
+/* ========== End Personal Customizations ============ */
